@@ -22,6 +22,18 @@
 * `$context.identity.userAgent` - The User Agent of the API caller.
 
 
+#### Most important `$input` variables
 
+* `$input.json(x)` - This function evaluates a JSONPath expression and returns the results as a JSON string.
+* `$input.params()` - Returns a map of all the request parameters of your API call.
+* `$input.path(x)` - Takes a JSONPath expression string (x) and returns an object representation of the result. This allows you to access and manipulate elements of the payload natively in Apache Velocity Template Language (VTL). For example, `$input.path('$.pets').size()`.
+
+
+#### Most important `$util` variables
+
+* `$util.escapeJavaScript()` - Escapes the characters in a string using JavaScript string rules.
+* `$util.parseJson()` - Takes "stringified" JSON and returns an object representation of the result. 
+* `$util.urlEncode()` - Converts a string into "application/x-www-form-urlencoded" format.
+* `$util.urlDecode()` - Decodes an "application/x-www-form-urlencoded" string.
 
 
