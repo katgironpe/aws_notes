@@ -4,6 +4,9 @@
 
 * [Amazon Resource Names (ARNs) and AWS Service Namespaces](http://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 
+## Lambda
+
+* [Best Practices for Working with AWS Lambda Functions](http://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
 
 ## Amazon API Gateway
 
@@ -40,7 +43,5 @@
 * `$util.parseJson()` - Takes "stringified" JSON and returns an object representation of the result. 
 * `$util.urlEncode()` - Converts a string into "application/x-www-form-urlencoded" format.
 * `$util.urlDecode()` - Decodes an "application/x-www-form-urlencoded" string.
-
-
 
 
