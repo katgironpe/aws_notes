@@ -4,6 +4,11 @@
 
 * [Amazon Resource Names (ARNs) and AWS Service Namespaces](http://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html)
 
+
+## Amazon Tags
+
+* [What are tags and what can you do with them?](https://www.youtube.com/watch?v=DAzL8EUrdUo)
+
 ## Lambda
 
 * [Best Practices for Working with AWS Lambda Functions](http://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
