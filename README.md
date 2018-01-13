@@ -24,3 +24,7 @@
 
 * [Set up Custom Domain Name for an API in API Gateway ](http://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-custom-domains.html)
 * [API Gateway Mapping Template Reference](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-mapping-template-reference.html)
+
+## s3
+
+* [Setting Up Cross-Region Replication](https://docs.aws.amazon.com/AmazonS3/latest/dev/crr-how-setup.html)
